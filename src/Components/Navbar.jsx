@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className='bg-black flex flex-wrap justify-between items-center px-4 md:px-8 h-14'>
       <div className="logo font-bold text-4xl text-white">
-        &lt;
+        
         <span className='text-purple-800'> &lt;Pass</span>
         <span className='text-white'>OP</span> 
         <span className='text-purple-800'>/&gt;</span>
